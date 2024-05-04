@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Asif-1st/Mosto.git/static/css/main.ccda75a9.css",
-    "main.js": "/Asif-1st/Mosto.git/static/js/main.e41b6dae.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Asif-1st/Mosto.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Image (6).png": "/Asif-1st/Mosto.git/static/media/Image (6).c76eb97a7bee4db11109.png",
-    "static/media/bg__img.png": "/Asif-1st/Mosto.git/static/media/bg__img.b115d7c118a4f9767a50.png",
-    "static/media/Item - 1 (1).png": "/Asif-1st/Mosto.git/static/media/Item - 1 (1).01aa624eeaf1abbca387.png",
-    "static/media/Item - 2 (1).png": "/Asif-1st/Mosto.git/static/media/Item - 2 (1).9caaed0f3d760fcba16a.png",
-    "static/media/Item - 1 (2).png": "/Asif-1st/Mosto.git/static/media/Item - 1 (2).4f79a9b82c31170f5bc5.png",
-    "static/media/Image.png": "/Asif-1st/Mosto.git/static/media/Image.713241ed8d84f899d0e3.png",
-    "static/media/blogs1.png": "/Asif-1st/Mosto.git/static/media/blogs1.d25e9a869148a26edb86.png",
-    "static/media/Item - 1 (3).png": "/Asif-1st/Mosto.git/static/media/Item - 1 (3).61484b675849a9fe285f.png",
-    "static/media/Item - 1.png": "/Asif-1st/Mosto.git/static/media/Item - 1.b5f10dc1bc74897a296a.png",
-    "static/media/Item - 2.png": "/Asif-1st/Mosto.git/static/media/Item - 2.ddcf5b27747c48eecfe8.png",
-    "index.html": "/Asif-1st/Mosto.git/index.html",
-    "main.ccda75a9.css.map": "/Asif-1st/Mosto.git/static/css/main.ccda75a9.css.map",
-    "main.e41b6dae.js.map": "/Asif-1st/Mosto.git/static/js/main.e41b6dae.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Asif-1st/Mosto.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Asif-1st/Mosto/static/css/main.ccda75a9.css",
+    "main.js": "/Asif-1st/Mosto/static/js/main.44312bc4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Asif-1st/Mosto/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Image (6).png": "/Asif-1st/Mosto/static/media/Image (6).c76eb97a7bee4db11109.png",
+    "static/media/bg__img.png": "/Asif-1st/Mosto/static/media/bg__img.b115d7c118a4f9767a50.png",
+    "static/media/Item - 1 (1).png": "/Asif-1st/Mosto/static/media/Item - 1 (1).01aa624eeaf1abbca387.png",
+    "static/media/Item - 2 (1).png": "/Asif-1st/Mosto/static/media/Item - 2 (1).9caaed0f3d760fcba16a.png",
+    "static/media/Item - 1 (2).png": "/Asif-1st/Mosto/static/media/Item - 1 (2).4f79a9b82c31170f5bc5.png",
+    "static/media/Image.png": "/Asif-1st/Mosto/static/media/Image.713241ed8d84f899d0e3.png",
+    "static/media/blogs1.png": "/Asif-1st/Mosto/static/media/blogs1.d25e9a869148a26edb86.png",
+    "static/media/Item - 1 (3).png": "/Asif-1st/Mosto/static/media/Item - 1 (3).61484b675849a9fe285f.png",
+    "static/media/Item - 1.png": "/Asif-1st/Mosto/static/media/Item - 1.b5f10dc1bc74897a296a.png",
+    "static/media/Item - 2.png": "/Asif-1st/Mosto/static/media/Item - 2.ddcf5b27747c48eecfe8.png",
+    "index.html": "/Asif-1st/Mosto/index.html",
+    "main.ccda75a9.css.map": "/Asif-1st/Mosto/static/css/main.ccda75a9.css.map",
+    "main.44312bc4.js.map": "/Asif-1st/Mosto/static/js/main.44312bc4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Asif-1st/Mosto/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccda75a9.css",
-    "static/js/main.e41b6dae.js"
+    "static/js/main.44312bc4.js"
   ]
 }
